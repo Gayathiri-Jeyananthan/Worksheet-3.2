@@ -34,4 +34,12 @@ body{
 .image3{
     height:300px;
     width:400px;
+    margin-left: 50px;
+    border-radius: 20px;
+    box-shadow: 0 10px 26px 0 rgba(0,0,0,0.2) ;
+}
+
+.image4{
+    height:300px;
+    width:400px;
 }
