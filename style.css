@@ -1,0 +1,32 @@
+body{
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif
+}
+
+.nav-item{
+    align-items:right;
+    justify-content: end;
+}
+
+.button1{
+    border: none;
+    background-color:#A82C4B;
+    box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2) ;
+    font-size: small;
+}
+
+.button2{
+    border: none;
+    box-shadow:0 8px 16px 0 rgba(0,0,0,0.2);
+    font-size: small;
+
+}
+
+.image2{
+    height:300px;
+    width:400px;
+    margin-right:400px;
+}
+
+.section2{
+    row-gap: 20px;
+}
