@@ -30,3 +30,8 @@ body{
 .section2{
     row-gap: 20px;
 }
+
+.image3{
+    height:300px;
+    width:400px;
+}
