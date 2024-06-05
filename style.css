@@ -2,6 +2,15 @@ body{
     font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif
 }
 
+.back{
+    background-image: url("img/img-6.jpg");
+    height:400px;
+    width:100%;
+    background-repeat: no-repeat;
+    background-size: cover !important;
+    background-position: center !important;       
+}
+
 .nav-item{
     align-items:right;
     justify-content: end;
